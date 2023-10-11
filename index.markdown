@@ -100,6 +100,9 @@ Our <b>story writing interface</b> partitions the end-user's story into cells an
 {: .center .acknowledgement}
 This research was supported by the **KAIST-NAVER Hypercreative AI Center**.
 
+-----
 
-[1]:{{site.code}}
-[2]:{{site.paper}}
+{: .center .credits}
+Template from [EvalLM](https://github.com/kixlab/evallm-website) by [tsook](https://taesookim.com). Licensed under MIT License.
+<br/>
+Feel free to borrow the template. We only ask you to keep the credit links above.
